@@ -1,0 +1,6 @@
+C:\Users\kalbA\source\repos\Namensliste\Namensliste\bin\Debug\Namensliste.exe.config
+C:\Users\kalbA\source\repos\Namensliste\Namensliste\bin\Debug\Namensliste.exe
+C:\Users\kalbA\source\repos\Namensliste\Namensliste\bin\Debug\Namensliste.pdb
+C:\Users\kalbA\source\repos\Namensliste\Namensliste\obj\Debug\Namensliste.csprojAssemblyReference.cache
+C:\Users\kalbA\source\repos\Namensliste\Namensliste\obj\Debug\Namensliste.exe
+C:\Users\kalbA\source\repos\Namensliste\Namensliste\obj\Debug\Namensliste.pdb
